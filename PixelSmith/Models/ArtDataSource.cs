@@ -15,7 +15,7 @@ namespace Models
 				case 1:
 					return "You don’t take a photograph, you make it. - Ansel Adams";
 				case 2:
-					return "Creativity takes courage. - Henri Matisse";
+					return "Creativity is a takes courage. - Henri Matisse";
 				default:
 					return "Painting is easy when you don’t know how, but very difficult when you do. - Edgar Degas.";
 
